@@ -1,15 +1,7 @@
-# TITULO DE PROYECTO
+# Codigo faclilito - Introduccion a GitHup
+
+En este repositorio vas a encontrar los elemento desorrallado en mi curso de introduccion a GitHup
 
 
-# DESCRIPCION DE PROYECTO
+## Unete al grupo
 
-
-# COMO UTILIZAR
-
-
-
-# LISTA TOTAL
-
-- PRIMERO
-- SEGUNDO
-- TERCERO
